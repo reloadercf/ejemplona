@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "981348423652",
+    "firebase_url": "https://dipraadmin.firebaseio.com",
+    "project_id": "dipraadmin",
+    "storage_bucket": "dipraadmin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981348423652:android:f373539d54b5696e",
+        "android_client_info": {
+          "package_name": "com.appdipra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981348423652-vstgm4jh1d6knnsfv3cbv2ldon3vicd9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC59fc2UCWEqCBHsLKTwxPH86cyc_PckJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981348423652-vstgm4jh1d6knnsfv3cbv2ldon3vicd9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
